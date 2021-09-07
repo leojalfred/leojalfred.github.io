@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2d06da21.chunk.css",
-    "main.js": "/static/js/main.5bbf69b9.chunk.js",
-    "main.js.map": "/static/js/main.5bbf69b9.chunk.js.map",
+    "main.js": "/static/js/main.9c90e815.chunk.js",
+    "main.js.map": "/static/js/main.9c90e815.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.df18c921.js",
     "runtime-main.js.map": "/static/js/runtime-main.df18c921.js.map",
     "static/js/2.44ce6e8b.chunk.js": "/static/js/2.44ce6e8b.chunk.js",
@@ -10,15 +10,14 @@
     "index.html": "/index.html",
     "static/css/main.2d06da21.chunk.css.map": "/static/css/main.2d06da21.chunk.css.map",
     "static/js/2.44ce6e8b.chunk.js.LICENSE.txt": "/static/js/2.44ce6e8b.chunk.js.LICENSE.txt",
-    "static/media/profile.d5ed2800.jpg": "/static/media/profile.d5ed2800.jpg",
+    "static/media/profile.1ead4c77.jpg": "/static/media/profile.1ead4c77.jpg",
     "static/media/resume.fdee577e.pdf": "/static/media/resume.fdee577e.pdf",
-    "static/media/schwab.dcfd2c83.png": "/static/media/schwab.dcfd2c83.png",
-    "static/media/stimrouter.07d73515.png": "/static/media/stimrouter.07d73515.png"
+    "static/media/schwab.2c5eb733.png": "/static/media/schwab.2c5eb733.png"
   },
   "entrypoints": [
     "static/js/runtime-main.df18c921.js",
     "static/js/2.44ce6e8b.chunk.js",
     "static/css/main.2d06da21.chunk.css",
-    "static/js/main.5bbf69b9.chunk.js"
+    "static/js/main.9c90e815.chunk.js"
   ]
 }
